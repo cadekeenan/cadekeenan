@@ -1,4 +1,5 @@
-### Hi there 👋
+# Cade Keenan 
+### Business Analytics and Information Systems 
 
 <!--
 **cadekeenan/cadekeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
