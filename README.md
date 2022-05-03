@@ -1,5 +1,9 @@
 # Cade Keenan 
-### Business Analytics and Information Systems 
+### Business Analytics and Information Systems, Tippie College of Business, The University of Iowa
+### - 🔭 I’m currently learning Data Wrangling, Mining, and Machine Learning
+### - 💬 Ask me about my interests in data science, the outdoors, music and art
+### - ⚡ Fun fact: I hiked Angel's Landing in Zion Natl Park and plan on climbing Half Dome in Yosemite.
+
 
 <!--
 **cadekeenan/cadekeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
