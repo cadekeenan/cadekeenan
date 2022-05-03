@@ -2,7 +2,7 @@
 ### Business Analytics and Information Systems, Tippie College of Business, The University of Iowa
 ### - 🔭 I’m currently learning Data Wrangling, Mining, and Machine Learning
 ### - 💬 Ask me about my interests in data science, the outdoors, music and art
-### - ⚡ Fun fact: I hiked Angel's Landing in Zion Natl Park and plan on climbing Half Dome in Yosemite.
+### - ⚡ Fun fact: I'm only 22 but I have a raging substance abuse problem!
 
 
 <!--
