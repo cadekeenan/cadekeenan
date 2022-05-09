@@ -4,7 +4,9 @@
 ### - 💬 Ask me about my interests in data science, the outdoors, music and art
 ### - ⚡ Fun fact: I've traveled to 41/50 of States in the US, only 9 left! Coming for you, Hawaii!
 ### Technologies: 
+### Socials: 
 
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCJKData
 <!--
 **cadekeenan/cadekeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
