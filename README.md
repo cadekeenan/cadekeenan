@@ -14,3 +14,6 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
 ![](https://img.shields.io/badge/Code-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
 
+
+![](https://media2.giphy.com/media/54oUR7bTH0FhK/200.gif) ![](https://media4.giphy.com/media/4FQMuOKR6zQRO/200.gif)
+![](https://media4.giphy.com/media/CpzgATiNo7DlC/200.gif)
