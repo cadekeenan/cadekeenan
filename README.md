@@ -9,10 +9,11 @@
 ### Tech
 - ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFBF00)
+![](https://img.shields.io/badge/Code-Rattle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFBF00)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
-![](https://img.shields.io/badge/Code-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=21D016)
+![](https://img.shields.io/badge/Code-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00A2ED)
 
 
 ![](https://media2.giphy.com/media/54oUR7bTH0FhK/200.gif) ![](https://media4.giphy.com/media/4FQMuOKR6zQRO/200.gif)
