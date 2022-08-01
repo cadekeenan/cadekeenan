@@ -3,7 +3,7 @@
 ### Business Analytics and Information Systems, Tippie College of Business, The University of Iowa 🐥⬛️
 ### - 🔭 I’m currently learning Data Wrangling, Mining, Machine Learning, and Statistical Computing
 ### - 💬 Ask me about my interests in science, the outdoors, music, and art
-### - ⚡ Fun fact: I've traveled to 41/50 of States in the US, only 9 left! Coming for you, Hawaii!
+### - ⚡ Fun fact: I've traveled to 26/63 National Parks in the US!
 
 ### Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
