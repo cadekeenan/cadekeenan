@@ -4,7 +4,8 @@
 ### - 🔭 I’m currently learning Data Wrangling, Mining, Machine Learning, and Statistical Computing
 ### - 💬 Ask me about my interests in science, the outdoors, music, and art
 ### - ⚡ Fun fact: I've traveled to 26/63 National Parks in the US!
-### - 📚 Working towards becoming proficient in my third language, French
+### - 📚 Working on my third language, French
+### - 🌊 One of my favorite jobs [![Quarry](https://img.https://www.youtube.com/watch?v=sUlfETmjZ9Q&t=66s.jpg)](https://www.youtube.com/watch?v=sUlfETmjZ9Q&t=66s)
 
 ### Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
