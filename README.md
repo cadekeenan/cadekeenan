@@ -7,6 +7,11 @@
 ### - 📚 Working on my third language, French
 ### - 🌊 One of my favorite jobs [![Quarry](https://img.https://www.youtube.com/watch?v=sUlfETmjZ9Q&t=66s.jpg)](https://www.youtube.com/watch?v=sUlfETmjZ9Q&t=66s)
 
+### Recent Blogs 
+- [AI Marketing – A Futuristic Change to The Industry Norm](https://mavenmgofficial.com/ai-marketing-change-to-industry-norm/)
+- [The Keys to Creating High Converting Landing Pages](https://mavenmgofficial.com/keys-to-creating-a-high-converting-landing-page/)
+
+
 ### Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
@@ -46,10 +51,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-[![cadekeenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadekeenan&show_icons=true&theme=radical)](https://github.com/cadekeenan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadekeenan&layout=compact)](https://github.com/cadekeenan/github-readme-stats)
 
 ![](https://media2.giphy.com/media/54oUR7bTH0FhK/200.gif) ![](https://media4.giphy.com/media/4FQMuOKR6zQRO/200.gif)
 ![](https://media4.giphy.com/media/CpzgATiNo7DlC/200.gif)
